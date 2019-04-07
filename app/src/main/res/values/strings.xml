@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">FAROL</string>
+    <string name="app_name">Farol</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Farol</string>
@@ -12,4 +12,8 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="dashboard_text">Dashboard</string>
     <string name="chat_text">CHAT</string>
+    <string name="button_login_with_google">Google</string>
+    <string name="button_login_with_email">Login</string>
+    <string name="button_send_msg">Enviar</string>
+    <string name="button_function">Função</string>
 </resources>
